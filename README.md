@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started a new App in React Native
 
-# Criptomonedas App 16
+# Animated App 16
 
 ## Development
 1. Clonar proyecto
